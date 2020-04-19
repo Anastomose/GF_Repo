@@ -75,6 +75,7 @@ GLUTEN FREE RECIPE REPOSITORY
    carrotcake
    chocolatechip_cookies
    cinnamon_bisc
+   Gluehwein
    Crockpot_Pumpkin_P
    Muffin
    oatmeal_cookies
@@ -99,3 +100,11 @@ GLUTEN FREE RECIPE REPOSITORY
    Sweet_PS
    wrv_salad
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Breads
+
+   anc_amarath_bread
+   cinnamon_bread
+   cornbread
+   herb_bread
