@@ -18,7 +18,7 @@ GLUTEN FREE RECIPE REPOSITORY
    Crockpot_Beef_Stew
    Hangover_Hash
    Minestrone
-   Moroccan_cluck
+   moroccan_cluck
    Moroccan_Vegetables
    PCC_Chili
    Pine_Nut_Pasta
