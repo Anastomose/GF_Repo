@@ -2,31 +2,39 @@
 Banana Bars
 --------------------------
 
-Ingredients
------------
+Dry Ingredients
+----------------
+
+:: 
+
+    2 C Sorghum Blend Flour
+
+    2 t xanthan gum
+
+    1 t baking SODA
+
+    1 t salt
+
+
+
+Wet Ingredients
+--------------------
 
 ::
 
+    1/2 stick butter, at room temp
 
-    1/4 stick butter, at room temp
+    1 C sugar
 
-    1/2 Cup sugar
+    2 eggs
 
-    1 large egg, at room temperature
+    2 large very ripe bananas mashed
 
-    1 large very ripe banana, mashed
+    2 t vanilla extract
 
-    1 teaspoon pure vanilla extract
+    2 t lemon juice
 
-    1 teaspoon lemon juice
 
-    1 cup Sorghum Blend Flour
-
-    1 teaspoon xanthan gum
-
-    1/2 teaspoon baking soda
-
-    1/2 teaspoon salt
 
 
 Frosting
@@ -35,19 +43,17 @@ Frosting
 ::
 
 
-    zest of 1 orange
+    zest of 1 orange (very fine)
 
-    1 tablespoon fresh orange juice
+    1 T fresh orange juice
 
-    1 teaspoon canola oil
+    1 t canola oil
 
-    1 teaspoon pure vanilla extract
+    1 t pure vanilla extract
 
-    1/2 teaspoon grated orange zest
+    1 1/2 C powdered sugar
 
-    1 1/2 cups powdered sugar
-
-    1/s teaspoon salt
+    1/8 t salt
 
 
 Oven
@@ -60,11 +66,23 @@ Instructions
 
 Place rack in the middle of the oven and preheat to 350 F, grease 8-inch pan.
 
-Combine dry ingredients and whisk separately. Mix wets in mixer, save mashed banana for last.
+Combine dry ingredients and whisk separately. :guilabel: `BAKING SODA! SODA! *NOT* BAKING POWDER` 
 
-Combine wet and dry.
+Make sure butter is soft/room temp. Whip together butter and sugar, add eggs, mix well. Add vanilla, lemon juice, and then mashed banana last.
+
+Combine wet and dry in the mixer.
 
 Bake 25 to 30 minutes until center is cooked.
 
-*Make Frosting*
-Combine ingredients, whip until smooth. Spread over cooled bars.
+Frosting
+**********
+
+In a 4 C glass measuring cup zest the orange
+
+Add juice, oil, vanilla extract, and salt.
+
+Begin adding powdered sugar, whisking to create the frosting.
+
+Frosting is a little on the runny side, stick in the fridge to stiffen prior to spreading for a nice even distribution on the bars. 
+
+Spread over cooled bars.
