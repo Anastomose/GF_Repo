@@ -66,11 +66,11 @@ Instructions
 
 Place rack in the middle of the oven and preheat to 350 F, grease 8-inch pan.
 
-Combine dry ingredients and whisk separately. :guilabel: `BAKING SODA! SODA! *NOT* BAKING POWDER` 
+Combine dry ingredients and whisk separately. :guilabel:`BAKING SODA! SODA! *NOT* BAKING POWDER` 
 
 Make sure butter is soft/room temp. Whip together butter and sugar, add eggs, mix well. Add vanilla, lemon juice, and then mashed banana last.
 
-Combine wet and dry in the mixer.
+Combine wet and dry mixes in the mixer.
 
 Bake 25 to 30 minutes until center is cooked.
 
