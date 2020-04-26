@@ -53,7 +53,7 @@ Cream Sauce
 Oven
 ------
 
-350 F for 1 hour
+375 F for 30 minutes, broil 4 minutes uncovered on high.
 
 Instructions
 ---------------
@@ -72,11 +72,13 @@ Reduce heat to low, cover, and simmer for 15 minutes.
 Make the Sauce
 ******************
 
-    Melt the butter in a small saucepan over medium heat.
+Melt the butter in a small saucepan over medium heat.
 
-    Add 1 1/2 C of the milk. Mix rice flour with remaining 1/2 C and whisk until smooth, then add to heated mix, continue whisking saucepan.
+Add 1 1/2 C of the milk. Mix rice flour with remaining 1/2 C and whisk until smooth, then add to heated mix, continue whisking saucepan.
 
-    Add parmesan cheese and stir until melted. Stir 2 x T of the sauce into the 2 x beaten eggs, return to the sauce and cook for 3 to 5 more minutes, continuing to whisk until sauce thickens.
+Add parmesan cheese and stir until melted. 
+
+Stir 2 x T of the sauce into the 2 x beaten eggs, return to the sauce and cook for 3 to 5 more minutes, continuing to whisk until sauce thickens.
 
 Assemble
 **************
@@ -90,6 +92,6 @@ Place rack in the middle of the oven and grease 9 x 13 glass pyrex pan. Layer:
     * Remaining creams sauce
     * Sprinkle with parmesan
 
-Bake for 1 hour covered then remove foil and broil for 3 to 5 minutes (careful not to burn!).
+Bake for 30 minutes covered then remove foil and broil for 3 to 5 minutes (careful not to burn!).
 
 Cool for 15 minutes then serve.
