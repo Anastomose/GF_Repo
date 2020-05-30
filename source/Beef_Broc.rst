@@ -7,38 +7,49 @@ Ingredients
 
 ::
 
-    1 lb broccoli florrets
+    1 lb beef flank steak, thinly sliced
 
-    2 T totasted sesame oil
-
-    1 lb sirloin steak, sliced thin
-
-    1/2 C sliced shallots
+    1 lb broccoli florets
 
     3 cloves garlic
 
-    2 t minced fresh ginger
+    1 T fresh ginger
 
-    1/4 C beef stock
+    Cooked white rice
 
-    2 T oyster sauce
 
-    1 t cornstarch, mixed with water
+The Sauce:
+----------
 
-    1/2 t red pepper flakes
+::
 
-    Cooked brown or white rice
+    1/4 C soy sauce
+
+    1/4 C water
+
+    1/4 C brown sugar
+
+    1 T sambal oelek
+
+    1 T rice vinegar
+
+    1 T sesame oil
+
+    1 T cornstarch
+
 
 
 Instructions
 --------------
 
-1. Bring large pot of salted water to boil, cook broccoli.
+Add a swish of sesame oil to a hot skillet and cook the steak.  Remove from pan.
 
-2. Heat sesame oil, cook steak. Remove from pan.
+Add another swish of oil and cook the broccoli until bright green.  You can add a splash of water to steam it a bit.  Remove from pan.
 
-3. Add shallots, garlic, and ginger to the pan, stirring constantly for about a minute. Add steak, broccoli, stock, and oyster sauce. Bring to a boil. Tilt pan until accumulated juices are on one side, stir in cornstarch paste.
+Mix just the cornstarch and soy sauce together, then add all other sauce ingredients and whisk until smooth.
 
-4. Toss evyerthing, add red pepper flakes, and serve once heated through.
+Add one last swish of oil to the pan.  Add ginger and garlic, saute for 1-2 minutes.  Add the sauce, stir until a thickened and sticky sauce forms.  Add beef and broccoli back in.  Toss gently to coat.
+
+Serve with rice and sesame seeds.
 
 

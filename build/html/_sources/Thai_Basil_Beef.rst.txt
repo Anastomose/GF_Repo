@@ -16,6 +16,12 @@ Rice Base
 
     1 cup water
 
+    2 t sesame oil, divided
+
+    2 cloves garlic, chopped
+
+    pinch of red pepper flakes
+
     1 lb flank steak, thinly sliced
 
     1 each red, yellow, and green bell pepper, thinly sliced
@@ -37,11 +43,6 @@ Sauce
 
     1 t sugar
 
-    2 t sesame oil, divided
-
-    2 cloves garlic, chopped
-
-    pinch of red pepper flakes
 
 Instructions
 --------------
