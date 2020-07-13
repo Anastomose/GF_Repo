@@ -48,6 +48,7 @@ GLUTEN FREE RECIPE REPOSITORY
 
    car_sp_gratin
    Chicken_EC
+   Chicken_EC_FAST
    cornbread_cass
    Mexican_Pepper_Cassarole
    pastitsio
