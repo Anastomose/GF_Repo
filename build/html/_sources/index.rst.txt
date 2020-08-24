@@ -80,6 +80,7 @@ GLUTEN FREE RECIPE REPOSITORY
    cinnamon_bisc
    Gluehwein
    Crockpot_Pumpkin_P
+   L_sorghum_mix
    Muffin
    oatmeal_cookies
    Peach_Crisp
@@ -87,6 +88,7 @@ GLUTEN FREE RECIPE REPOSITORY
    Salted_Caramel_Frosting
    strawb_muffin
    spice_cake
+   zucchini_bread
 
 .. toctree::
    :maxdepth: 1
