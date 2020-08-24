@@ -30,6 +30,7 @@ Preheat the oven to 375 degrees.
 Pour enough enchilada sauce in the bottom of a 9 x 13 pyrex, then layer on corn tortillas.
 
 Add the following:
+
     * Beans
     * Chicken
     * Cheese
