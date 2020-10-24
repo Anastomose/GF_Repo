@@ -22,7 +22,7 @@ Wet Ingredients
 
 ::
 
-    1/2 stick butter, at room temp
+    1 stick butter, at room temp
 
     1 C sugar
 
