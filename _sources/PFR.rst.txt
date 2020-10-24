@@ -45,17 +45,17 @@ Once the pan is hot pour in the eggs and cook scrambled style. Transfer the eggs
 
 Chop the sausage and brown in a separate skillet, reduce heat to low.
 
-Add one tablespoon of oil to the (still hot) pan and add the pineapple and red pepper. Cook, stirring constantly, until the liquid has evaporated and the pineapple is caramelized on the edges, about 3 to 5 minutes.
+Add one tablespoon of oil to the (still hot) pan and add the pineapple and red pepper. Cook, stirring constantly, until the liquid has evaporated and the pineapple is caramelized on the edges.
 
-Add the green onion and garlic. Cook, while stirring constantly until fragrant (estimated 30 seconds to 1 min). Transfer the contents of the pan to your bowl of eggs. 
+Add the green onion and garlic, reduce heat slightly and cook while stirring until fragrant. Transfer the contents of the pan to your bowl of eggs. 
 
-Add the remaining two teaspoons of oil to the pan. Pour in the chopped cashew and cook, stirring constantly. Add the rice to the pan and stir to combine. Cook, stirring occasionally, until the rice is hot, about 3 minutes.
+Add the remaining two teaspoons of oil to the pan. Pour in the chopped cashew and cook. Add the rice, and other cooked ingredients back into the pan and stir to combine until everything is heated through. 
 
-Pour the contents of the bowl back into the pan and stir to combine. Once the contents are warmed through, remove the pan from heat.
+Turn down the heat.
 
-Season to taste with tamari and siracha to taste. Squeeze the juice of 1/2 of a lime over the dish and stir to combine.
+Add tamari and siracha to taste. Squeeze the lime over the dish and stir to combine.
 
-Season to taste with salt. Transfer to individual serving bowls and garnish with a sprinkling of chopped cilantro leaves, with jars of chili garlic sauce or sriracha on the side.
+Garnish with a sprinkling of chopped cilantro leaves.
 
 Notes
 -----

@@ -18,6 +18,7 @@ GLUTEN FREE RECIPE REPOSITORY
    Crockpot_Beef_Stew
    Hangover_Hash
    Minestrone
+   moroccan_cluck
    Moroccan_Vegetables
    PCC_Chili
    Pine_Nut_Pasta
@@ -47,6 +48,8 @@ GLUTEN FREE RECIPE REPOSITORY
 
    car_sp_gratin
    Chicken_EC
+   Chicken_EC_FAST
+   cornbread_cass
    Mexican_Pepper_Cassarole
    pastitsio
    Polenta_L
@@ -75,7 +78,9 @@ GLUTEN FREE RECIPE REPOSITORY
    carrotcake
    chocolatechip_cookies
    cinnamon_bisc
+   Gluehwein
    Crockpot_Pumpkin_P
+   L_sorghum_mix
    Muffin
    oatmeal_cookies
    Peach_Crisp
@@ -83,6 +88,7 @@ GLUTEN FREE RECIPE REPOSITORY
    Salted_Caramel_Frosting
    strawb_muffin
    spice_cake
+   zucchini_bread
 
 .. toctree::
    :maxdepth: 1
@@ -99,3 +105,11 @@ GLUTEN FREE RECIPE REPOSITORY
    Sweet_PS
    wrv_salad
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Breads
+
+   anc_amarath_bread
+   cinnamon_bread
+   cornbread
+   herb_bread

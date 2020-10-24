@@ -26,7 +26,7 @@ Dressing
 
     1 tablespoon lemongrass or ginger paste
 
-    a couple BIG squeezes of lime juice (to taste)
+    1 lime, juiced
 
     1/4 cup peanut butter
 
@@ -35,15 +35,15 @@ Salad
 
 ::
 
-    4 ounces brown rice noodles (affiliate link)
+    4 ounces rice noodles
 
-    1 lb. boneless skinless chicken breasts
+    1 lb boneless skinless chicken breasts
 
     5-6 cups baby kale or spinach
 
     3 large carrots, cut into small, thin pieces*
 
-    3 bell peppers, cut into small, thin pieces*
+    2 bell peppers, cut into small, thin pieces*
 
     1 cup packed cilantro leaves, chopped
 

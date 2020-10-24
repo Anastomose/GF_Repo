@@ -38,8 +38,8 @@ Ingredients
     3 cups shredded zucchini (unpeeled, or peel to avoid green flecks. 
     If zucchini is large, discard seeds)
 
-Sorghum Flour Blend
-*********************
+Laura's Sorghum Flour Blend
+****************************
 
 ::
 
