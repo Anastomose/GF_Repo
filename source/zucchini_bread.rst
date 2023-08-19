@@ -5,8 +5,8 @@ Zucchini Bread
 
 Throw in a couple scoops of protein to make it a legit breakfast. If you have a lot of zucchini shred it all and then bag pre-measured portions for future loaves.
 
-Ingredients
------------
+Dry Ingredients
+-----------------
 
 ::
 
@@ -25,6 +25,11 @@ Ingredients
     
     2 tsp. allspice
     
+
+Wet Ingredients
+-----------------
+
+::
     12 Tbsp. (1 1/2 stick) unsalted butter, melted
     
     2 1/2 cups sugar
@@ -35,8 +40,7 @@ Ingredients
     
     2 Tbsp. lemon juice
 
-    3 cups shredded zucchini (unpeeled, or peel to avoid green flecks. 
-    If zucchini is large, discard seeds)
+    3 cups shredded zucchini (unpeeled, or peel to avoid green flecks. If zucchini is large, discard seeds)
 
 Laura's Sorghum Flour Blend
 ****************************
@@ -52,7 +56,8 @@ Laura's Sorghum Flour Blend
 Oven
 -----
 
-375 F for 45 to 50 minutes in a bread baking pan.
+375 F for 45 to 50 minutes in a bread baking pan
+
 Cool on a wire rack for 10-15 minutes then remove from pan and cool completely.
 
 Instructions

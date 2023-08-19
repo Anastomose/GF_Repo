@@ -2,8 +2,8 @@
 Chocolate Chip Cookies
 ------------------------
 
-Ingredients
------------
+Dry Ingredients
+-----------------
 
 ::
 
@@ -19,6 +19,11 @@ Ingredients
 
     1 t salt
 
+
+Wet Ingredients
+-----------------
+
+::
     1 C softened butter
 
     1 C brown sugar

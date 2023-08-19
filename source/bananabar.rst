@@ -64,7 +64,7 @@ Oven
 Instructions
 -------------
 
-Place rack in the middle of the oven and preheat to 350 F, grease 8-inch pan.
+Place rack in the middle of the oven and preheat to 350 F, grease 9 x 13 inch pan.
 
 Combine dry ingredients and whisk separately. :guilabel:`BAKING SODA! SODA! *NOT* BAKING POWDER` 
 
