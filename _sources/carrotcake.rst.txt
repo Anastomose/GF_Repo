@@ -5,8 +5,8 @@ Carrot Cake Supreme
 
 *Excellent choice for birthdays*
 
-Ingredients
------------
+Dry Ingredients
+-------------------
 
 ::
 
@@ -22,6 +22,11 @@ Ingredients
 
     1/2 t salt
 
+
+Wet Ingredients
+-----------------
+
+::
     4 large eggs
 
     2 C sugar
@@ -33,6 +38,7 @@ Ingredients
     3 C grated carrot
 
     1 C chocolate chips
+
 
 Sorghum Flour Blend
 *********************
