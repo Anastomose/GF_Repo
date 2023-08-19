@@ -20,7 +20,7 @@ GLUTEN FREE RECIPE REPOSITORY
    Minestrone
    moroccan_cluck
    Moroccan_Vegetables
-   PCC_Chili
+   NW_Chili
    Pine_Nut_Pasta
    Potato_Leek_Soup
    Quinoa_stuffing
@@ -98,10 +98,12 @@ GLUTEN FREE RECIPE REPOSITORY
    Cowboy_Caviar
    egg_salad
    fall_veg_hash
+   ginger_glaze
    layered_hd
+   pickled_onion
+   Potato_Sal
    RRPS_Quinoa_Salsa
    roasted_yam_dip
-   Potato_Sal
    Sweet_PS
    wrv_salad
 
